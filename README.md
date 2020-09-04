@@ -6,6 +6,4 @@ Convolutional Neural Networks
 - LesionClassification.ipynb
 
 
-are parts of my dissertation project *"Cost-Sensitive Deep Learning for skin lesion diagnosis"*
-
-a short introduction over this project is available at https://www.youtube.com/watch?v=3V-Nl3gZIM8
+are parts of my dissertation project *"Cost-Sensitive Deep Learning for skin lesion diagnosis"*a short introduction <br/>of this project is available at https://www.youtube.com/watch?v=3V-Nl3gZIM8
