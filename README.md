@@ -1,4 +1,5 @@
-CNNs 
+**CNNs**
+
 Convolutional Neural Networks
 #
 - LesionClassification.ipynb
